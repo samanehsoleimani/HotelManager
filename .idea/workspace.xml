@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f0b9b66-5c94-4f1f-b367-2ce40d2053bd" name="Changes" comment="" />
+    <list default="true" id="1f0b9b66-5c94-4f1f-b367-2ce40d2053bd" name="Changes" comment="mytry" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +9,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2wHgRSAVW5y9RsnOahRZYAoetqp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,7 +23,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -31,7 +35,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745703911049</updated>
+      <workItem from="1745703912602" duration="352000" />
     </task>
+    <task id="LOCAL‎−۰۰۰۰۱" summary="mytry">
+      <created>1745703964674</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۱" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۱" />
+      <updated>1745703964674</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mytry" />
+    <option name="LAST_COMMIT_MESSAGE" value="mytry" />
   </component>
 </project>
