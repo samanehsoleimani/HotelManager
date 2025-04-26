@@ -45,7 +45,7 @@ public class Connection {
         this.mobile = mobile;
     }
 
-    // متد toString برای نمایش اطلاعات ارتباط
+
     @Override
     public String toString() {
         return "Name: " + name + " | Room Number: " + roomNumber + " | Email: " + email + " | Mobile: " + mobile;
