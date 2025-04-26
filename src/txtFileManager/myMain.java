@@ -8,9 +8,6 @@ public class myMain {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         RoomRateManager roomManager = new RoomRateManager();
-        ConnectionInfoManager connectionInfoManager = new ConnectionInfoManager();
-        EmployeeManager employeeManager = new EmployeeManager();
-        EntertainmentManager entertainmentManager = new EntertainmentManager();
         FoodManager foodManager = new FoodManager();
 
         System.out.println("👋 Welcome to Hotel Services");
@@ -25,12 +22,6 @@ public class myMain {
 
         if (choice == 1) {
             roomManager.startRoomBooking();
-        } else if (choice == 2) {
-            connectionInfoManager.collectConnectionInfo();
-        } else if (choice == 3) {
-            employeeManager.showEmployeeList();
-        } else if (choice == 4) {
-            entertainmentManager.startEntertainmentService();
         } else if (choice == 5) {
             foodManager.startFoodService();
         } else {
