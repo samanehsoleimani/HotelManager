@@ -1,0 +1,14 @@
+=== Connection Info ===
+Name: Zahra | Room Number: 301 | Email: zwrra00@gmail.com | Mobile: 09942849368
+Guest Name: Sanam
+Selected Activities: Cinema
+Total Cost: 100000.0 Toman
+
+[Food Service]
+Guest Name: masoume
+Room Number: 101
+Breakfast foods: Halim ,  Salad Shirazi - Total Price: 65000.0 Toman
+Lunch foods: Salad Shirazi - Total Price: 25000.0 Toman
+Dinner foods:  - Total Price: 0.0 Toman
+Water: Added
+Total Price: 92000.0 Toman

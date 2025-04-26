@@ -1,0 +1,8 @@
+
+[Room Rating]
+Guest Name: Maryam
+Room Number: 302
+Room Capacity: 3 beds
+Price per Night: 3000000.0 Toman
+Nights: 2
+Total Price: 6000000.0 Toman
